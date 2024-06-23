@@ -1,8 +1,8 @@
-## Overview
+# Overview
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
-# District Summary
+## District Summary
 
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
